@@ -1,3 +1,3 @@
 # Spotify-Clone
-Spotify desktop app home page clone made using HTML and CSS. Made as a part of ApnaCollege Delta Course Mini Project.
+Spotify desktop app home page clone made using HTML and CSS. Made as a part of ApnaCollege Delta Course Mini Project. \n
 Referred videos of Delta Course.
