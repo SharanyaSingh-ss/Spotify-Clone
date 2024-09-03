@@ -1,3 +1,3 @@
 # Spotify-Clone
-Spotify desktop app home page clone made using HTML and CSS. Made as a part of ApnaCollege Delta Course Mini Project.
-Referred videos of Delta Course.
+This project is a clone of the Spotify Web homepage, created to replicate its design and layout using HTML, CSS, and JavaScript.
+It serves as a demonstration of front-end development skills, particularly in building visually appealing web pages.
